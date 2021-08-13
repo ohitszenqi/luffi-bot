@@ -130,3 +130,19 @@ yes/no]
 $color[ff6000]
 
 ```
+### yes / no
+##### yes
+```
+$nomention
+$enabled[$getUserVar[en];]
+$title[Accepted!]
+$color[ff6000]
+$description[Resetting your watchlist....]
+$editEmbedIn[5s;Done!;Resetted your watchlist!;Nice!;ff6000]
+```
+##### no
+```
+$nomention
+$enabled[$getUserVar[en];]
+Declined.
+```
