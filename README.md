@@ -39,4 +39,4 @@ $addField[Beli;$numberSeparator[$getUserVar[beli]]<:beri:872492755027370054>]
 #### Autorole
 * autorole
 ### License
-> This code was made by SG l Zenqi#0069 and its free to use.
+> This code was made by SG l Zenqi#0069, IJay#0001 and its free to use.
