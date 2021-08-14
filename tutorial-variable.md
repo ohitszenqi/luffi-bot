@@ -1,0 +1,14 @@
+# Get started
+### What is variables?
+> Variables is an object on coding, that can change or can't
+### Variables on bdfd
+* **value = the inside of the variable**
+* **$setUserVar[var name;a new value] - sets the user variable value to new**
+* **$getUserVar[var name] - gets the user variable value**
+* **$setServerVar[var name; a new value] - sets the server var**
+* **$getServerVar[var name] - gets the server var**
+* **$setVar[var name;a new value;$authorID] - sets the global variable value, if add $authorID it means adding it to user in global**
+* **$getVar[var name;$authorID] - gets the global variable value, if add $authorID it means getting the user value in global.**
+## Tutorial to add variable
+* Click navigation bar
+![lol](https://media.discordapp.net/attachments/862341296161161227/875893563278372884/unknown.jpeg)
